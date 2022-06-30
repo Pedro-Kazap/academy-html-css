@@ -1,0 +1,34 @@
+.propriedades-bordas {
+  border-width: valor; /* define a espessura da borda */
+  border-style: valor; /* define o estilo da borda */
+  border-color: valor; /* define a cor da borda border- */
+  top-width: valor; /* define a espessura da borda superior border- */
+  top-style: valor; /* define o estilo da borda superior border- */
+  top-color: valor; /* define a cor da borda superior border- */
+  right-width: valor; /* define a espessura da borda direita border- */
+  right-style: valor; /* define a estilo da borda direita border- */
+  right-color: valor; /* define a cor da borda direita border- */
+  bottom-width: valor; /* define a espessura da borda inferior border- */
+  bottom-style: valor; /* define o estilo da borda inferior border- */
+  bottom-color: valor; /* define a cor da borda inferior border- */
+  left-width: valor; /* define a espessura da borda esquerda border- */
+  left-style: valor; /* define o estilo da borda esquerda border- */
+  left-color: valor; /* define a cor da borda esquerda */
+  border-top: valor; /* maneira abreviada para todas as propriedades da borda superior */
+  border-right: valor; /* maneira abreviada para todas as propriedades da borda direita */
+  border-bottom: valor; /* maneira abreviada para todas as propriedades da borda inferior */
+  border-left: valor; /* maneira abreviada para todas as propriedades da borda esquerda */
+  border: valor; /* maneira abreviada para todas as quatro bordas */
+}
+
+h3 {
+  border-width: medium;
+  border-style: solid;
+  border-color: #00f;
+}
+
+p {
+  border-width: 6px;
+  border-style: dashed;
+  border-color: #f00;
+}
